@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Sample App for the Book",
-    "owner": "Manjula"
+    "owner": "Manjula",
+    "description": "sampleapp."
   },
   "detail": {
     "contributors": [],
